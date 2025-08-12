@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: blanchedalmond;
+}
+#image1 {
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin-bottom: 20px;
+}
+#image2 {
+    height: 150px;
+    width: 150px;
